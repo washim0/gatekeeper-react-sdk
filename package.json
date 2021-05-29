@@ -1,5 +1,5 @@
 {
-  "name": "@washimo/gatekeeper-react-sdk",
+  "name": "@washim0/gatekeeper-react-sdk",
   "version": "1.0.0",
   "description": "SDK of Washimo Gatekeper for React",
   "main": "./lib/cjs/index.js",
